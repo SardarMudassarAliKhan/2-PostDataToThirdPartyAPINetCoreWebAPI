@@ -1,0 +1,6 @@
+@_2_PostDataToThirdPartyAPINetCoreWebAPI_HostAddress = http://localhost:5059
+
+GET {{_2_PostDataToThirdPartyAPINetCoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
